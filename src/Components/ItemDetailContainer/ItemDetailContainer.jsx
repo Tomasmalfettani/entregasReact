@@ -6,7 +6,7 @@ const ItemDetailContainer = () => {
 
     const [product, setProduct] = useState(null)
 
-    const {idProduct} = useParams
+    const {idProduct} = useParams()
 
     useEffect(() => {
         const fetchData = () => {
@@ -26,7 +26,7 @@ const ItemDetailContainer = () => {
     return (
         <div>
             {
-                product ? <ItemDetail producto={product} /> : <p>Cargando...</p>
+                product ? <ItemDetail producto={product} /> : <p>Cargando.342..</p>
             }
         </div>
     );
