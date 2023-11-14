@@ -1,5 +1,6 @@
 import './App.css'
-import Header from './Components/Header/Header'
+import NavBar from './Components/NavBar/Navbar'
+import ItemListContainer from './Components/ItemListContainer/ItemListContainer'
 
 function App() {
 
@@ -7,7 +8,8 @@ function App() {
 
   return (
     <>
-    <Header mensaje={descuento}/>
+    <NavBar/>
+    <ItemListContainer mensaje={descuento}/>
     </>
   )
 }

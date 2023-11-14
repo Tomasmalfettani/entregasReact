@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Buzo 1",
+        "precio": 25.000,
+        "img": "",
+        "category":"Oversize",
+        "stock": 16
+    },
+    {
+        "id": 2,
+        "name": "Buzo 2",
+        "precio": 21.000,
+        "img": "",
+        "category":"Talle Unico",
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "name": "Buzo 3",
+        "precio": 14.000,
+        "img": "",
+        "category":"Oversize",
+        "stock": 5
+    },
+    {
+        "id": 4,
+        "name": "Buzo 4",
+        "precio": 13.000,
+        "img": "",
+        "category":"Oversize",
+        "stock": 20
+    },
+    {
+        "id": 5,
+        "name": "Buzo 5",
+        "precio": 21.000,
+        "img": "",
+        "category":"Talle Unico",
+        "stock": 6
+    },
+    {
+        "id": 6,
+        "name": "Buzo 6",
+        "precio": 18.000,
+        "img": "",
+        "category":"Oversize",
+        "stock": 6
+    }
+]
